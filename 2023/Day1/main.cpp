@@ -82,11 +82,6 @@ int main() {
     std::cout << std::endl;
     std::cout << total << std::endl;
 
-
-
-
-
-
     file.close();
     return 0;
 }
